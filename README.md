@@ -1,12 +1,12 @@
-Metadata-Version: 2.1
-Name: nksr
-Version: 1.0.3+pt20cu118
-Summary: Neural Kernel Surface Reconstruction
-Author-email: huangjh.work@outlook.com
-Keywords: nksr,3d,reconstruction
-Requires-Python: >=3.7
-License-File: LICENSE.txt
-Requires-Dist: pykdtree
-Requires-Dist: torch
-Requires-Dist: python-pycg (==0.5.2)
+# Neural Kernel Surface Reconstruction
 
+![NKSR](teaser.png)
+
+**Neural Kernel Surface Reconstruction**<br>
+[Jiahui Huang](https://huangjh-pub.github.io/),
+[Zan Gojcic](https://zgojcic.github.io/),
+[Matan Atzmon](https://matanatz.github.io/),
+[Or Litany](https://orlitany.github.io/), 
+[Sanja Fidler](https://www.cs.toronto.edu/~fidler/),
+[Francis Williams](https://www.fwilliams.info/) <br>
+**[Paper](https://arxiv.org/abs/2305.19590), [Project Page](https://research.nvidia.com/labs/toronto-ai/NKSR/)**
